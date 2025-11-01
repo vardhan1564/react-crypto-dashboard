@@ -25,7 +25,7 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        Built with CoinGecko API — demo dashboard
+        CoinGecko API  Demo dashboard project - Vardhan Adheli
       </footer>
     </div>
   );
