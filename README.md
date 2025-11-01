@@ -30,17 +30,3 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 
 ---
 
-## 🧩 Project Structure
-src/
-├── components/
-│ ├── Navbar.jsx
-│ ├── SearchBar.jsx
-│ ├── Card.jsx
-│ └── Chart.jsx
-├── pages/
-│ ├── Home.jsx
-│ └── DetailPage.jsx
-├── App.jsx
-├── main.jsx
-└── styles/
-└── App.css
