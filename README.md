@@ -37,7 +37,7 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 
 ## 👨‍💻 Author  
 **Vardhan Adheli**  
-https://www.linkedin.com/in/vardhanadheli/
+https://www.linkedin.com/in/vardhanadheli/ <br>
 📧 Email: vardhanadheli1527@gmail.com 
 
 ---
