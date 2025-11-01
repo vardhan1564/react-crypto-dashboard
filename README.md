@@ -29,7 +29,6 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 | Deployment | Vercel / Netlify |
 
 ---
----
 
 ## 🌎 Live Demo  
 [🔗 Click Here to View Live Project](https://react-crypto-dashboard-git-main-vardhan-adhelis-projects.vercel.app/)
@@ -37,7 +36,7 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 ---
 
 ## 👨‍💻 Author  
-**Vardhan Adhelli**  
+**Vardhan Adheli**  
 [💼 LinkedIn Profile](https://www.linkedin.com/in/vardhanadheli/)  
 📧 Email: vardhanadheli1527@gmail.com 
 
