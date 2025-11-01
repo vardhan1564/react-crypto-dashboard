@@ -6,7 +6,7 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 
 ## 🚀 Features
 
-✅ Fetches data dynamically from a **public API** (e.g., CoinGecko / TMDB / OpenWeatherMap).  
+✅ Fetches data dynamically from a **public API** (e.g., CoinGecko).  
 ✅ Includes a **search bar** to find specific items.  
 ✅ Displays results in a clean **grid / list view**.  
 ✅ Click any item to view detailed information (using **React Router**).  
@@ -31,4 +31,16 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 ---
 
 ## 🧩 Project Structure
-
+src/
+├── components/
+│ ├── Navbar.jsx
+│ ├── SearchBar.jsx
+│ ├── Card.jsx
+│ └── Chart.jsx
+├── pages/
+│ ├── Home.jsx
+│ └── DetailPage.jsx
+├── App.jsx
+├── main.jsx
+└── styles/
+└── App.css
