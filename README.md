@@ -12,8 +12,8 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 ✅ Click any item to view detailed information (using **React Router**).  
 ✅ **Asynchronous API calls** using `fetch` or `axios`.  
 ✅ Manages data using React Hooks: `useState` and `useEffect`.  
-✅ Optional: **Favorites feature** using `localStorage`.  
-✅ Optional: **Data visualization** using Recharts.  
+✅ **Favorites feature** using `localStorage`.  
+✅ **Data visualization** using Recharts.  
 
 ---
 
@@ -24,9 +24,9 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 | Frontend  | React.js |
 | Routing   | react-router-dom |
 | Data Fetching | axios / fetch API |
-| Styling   | CSS / TailwindCSS |
+| Styling   | CSS |
 | Charting  | Recharts (optional) |
-| Deployment | Vercel / Netlify |
+| Deployment | Vercel  |
 
 ---
 
