@@ -31,7 +31,7 @@ A responsive and interactive dashboard built using **React.js** that fetches and
 ---
 
 ## 🌎 Live Demo  
-[🔗 Click Here to View Live Project](https://react-crypto-dashboard-git-main-vardhan-adhelis-projects.vercel.app/)
+[🔗 Click Here to View Live Project][(https://react-crypto-dashboard-git-main-vardhan-adhelis-projects.vercel.app/)](https://react-crypto-api-dashboard.netlify.app/)
 
 ---
 
